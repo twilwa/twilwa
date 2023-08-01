@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 some hackathon submissions:
-
 https://lablab.ai/event/anthropic-ai-hackathon/agentforge/3rd-shift (prompt engineering, PM)
 
 https://lablab.ai/event/eleven-labs-ai-hackathon/shadowy-super-coders/the-universe (video production, PM, a little engineering)
@@ -28,7 +27,6 @@ Datacamp Data Science with Python (Filling some gaps, scikit-learn and pandas cl
 
 
 random incomplete collection of frameworks/packages/libraries/languages/tech i'm familiar with:
-
 python
 
 javascript
@@ -104,7 +102,6 @@ Docker
 
 
 experience/positions/titles/whatever (all of these are volunteer and active, looking for paid work):
-
 Alchemy University - Design Guild Coordinator
 
 Hyperlane - Lieutenant - Builder, Pilot
@@ -113,7 +110,6 @@ GATO Framework (https://gatoframework.org) - Blockchain Layer Lead, "research en
 
 
 Current project:
-
 https://github.com/twilwa/docs-understanding-agent (personal)
 
 https://github.com/twilwa/ingestion-pipeline (personal, but first intended use-case is a dataset for Gorilla LLM, found at https://github.com/ShishirPatil/gorilla)
