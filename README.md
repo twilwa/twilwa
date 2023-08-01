@@ -8,11 +8,16 @@ https://lablab.ai/event/eleven-labs-ai-hackathon/shadowy-super-coders/the-univer
 
 https://ethglobal.com/showcase/crossscale-and-the-friends-we-made-along-the-way-uk8v8 (video production, engineering)
 
+
 yt:
+
 https://www.youtube.com/channel/UCuz8WqJVo0oAyNZgtOQtvDA
 
+
 twitter:
+
 https://twitter.com/yikesawjeez
+
 
 random certs and classes in various stages of completion:
 
