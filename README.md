@@ -3,6 +3,7 @@
 some hackathon submissions:
 
 https://lablab.ai/event/anthropic-ai-hackathon/agentforge/3rd-shift (prompt engineering, PM)
+
 https://lablab.ai/event/eleven-labs-ai-hackathon/shadowy-super-coders/the-universe (video production, PM, a little engineering)
 
 https://ethglobal.com/showcase/crossscale-and-the-friends-we-made-along-the-way-uk8v8 (video production, engineering)
