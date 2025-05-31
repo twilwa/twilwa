@@ -1,3 +1,28 @@
+dang, this could really use an update
+will get to it when i get to it.
+in the meantime
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-05-31T03:27:14.098Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0xef97B1AC874B91E59cDaC83a48d0A87edF8788cD"
+    },
+    {
+      "chain": "solana",
+      "address": "DKM8aSR2t8or7UzA6kaCwYD2wPrUcPoDVvtqEdZ2aeMH"
+    }
+  ]
+}
+WALLET-LINKING-END -->
+
+
+
+
+
+
+
 ### Hi there 👋
 
 some hackathon submissions:
